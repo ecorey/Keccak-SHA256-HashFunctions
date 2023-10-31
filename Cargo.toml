@@ -7,3 +7,5 @@ edition = "2021"
 
 [dependencies]
 tiny-keccak = "1.5"
+sha2 = "0.9"
+digest = "0.9"
